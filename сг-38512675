@@ -1,0 +1,2 @@
+sudo apt upgrade && update
+sudo apt-get install build-essential module-assistant
